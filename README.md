@@ -18,3 +18,9 @@
   <img width="" height="" src="./pic/5st_2.png"></img>
   <img width="" height="" src="./pic/5st_3.png"></img>
   <img width="" height="" src="./pic/5st_4.png"></img>
+
+# 6주차(2022-04-18)
+### 넓이
+  <img width="" height="" src="./pic/6st_1.png"></img>
+### 높이
+  <img width="" height="" src="./pic/6st_2.png"></img>
