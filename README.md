@@ -29,7 +29,7 @@
 ### activity_main.xml
   <img width="" height="" src="./pic/10st_1.png"></img>
 ### mainActivity_java
-  <img width="" height="" src="./pic/10st_22.png"></img>
+  <img width="" height="" src="./pic/10st_2.png"></img>
 ### activity_menu.xml
   <img width="" height="" src="./pic/10st_3.png"></img>
 ### menuActivity_java
