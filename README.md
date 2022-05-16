@@ -24,3 +24,13 @@
   <img width="" height="" src="./pic/6st_1.png"></img>
 ### 높이
   <img width="" height="" src="./pic/6st_2.png"></img>
+
+# 10주차(2022-05-16)
+###activity_main.xml
+  <img width="" height="" src="./pic/10st_1.png"></img>
+###mainActivity_java
+  <img width="" height="" src="./pic/10st_2.png"></img>
+###activity_menu.xml
+  <img width="" height="" src="./pic/10st_3.png"></img>
+###menuActivity_java
+  <img width="" height="" src="./pic/10st_4.png"></img>
