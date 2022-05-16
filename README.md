@@ -28,10 +28,10 @@
 # 10주차(2022-05-16)
 ### activity_main.xml
   <img width="" height="" src="./pic/10st_1.png"></img>
-### mainActivity_java
+### mainActivity_.ava
   <img width="" height="" src="./pic/10st_2.png"></img>
 ### activity_menu.xml
   <img width="" height="" src="./pic/10st_3.png"></img>
-### menuActivity_java
+### menuActivity.java
   <img width="" height="" src="./pic/10st_4.png"></img>
 
